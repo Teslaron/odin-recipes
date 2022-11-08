@@ -1,0 +1,74 @@
+/* index */
+.index-body {
+    font-family: Garamond sans-serif; 
+}
+.index-heading {
+    text-align: center;
+    font-size: 60px;
+}
+.chef1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto; height: 375px;
+}
+.recipe-list {
+    text-align: center;
+}
+.recipe-heading {
+    color: rgb(255, 38, 0);
+    text-decoration: underline;
+    font-size: 30px;
+}
+.recipe-list-ul {
+    display: inline-block;
+}
+
+/* Carbonara */
+.car-body {
+    font-family: georgia, sans-serif;
+}
+.car-img1 {
+    height: 300px; width: auto;
+}
+.car1 {
+     background-color: green;
+
+}
+.car3 {
+    background-color: red;
+}
+
+/*Spaetzle*/
+.spa-body {
+    font-family: georgia, sans-serif;
+}
+.spa-img1 {
+    height: 300px; width: auto;
+}
+.spa1 {
+    background-color: black;
+    color: white;
+}
+.spa2 {
+    background-color: red;
+}
+.spa3 {
+    background-color: yellow;
+}
+/* Bacon and Eggs */
+.ba-eg-body {
+    font-family: georgia, sans-serif;
+}
+.ba-eg-img1 {
+    height: 300px; width: auto;
+}
+.ba-eg1 {
+    color: blue;
+}
+.ba-eg2 {
+    color: blue;
+}
+.ba-eg3 {
+    color: red;
+}
